@@ -2,6 +2,7 @@
 
 <!--
 **lundeen-bryan/lundeen-bryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: GitHub for now. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I designed a program for our hospital that helps save a lot of time processing doctors reports.
--->
+
