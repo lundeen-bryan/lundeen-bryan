@@ -4,6 +4,8 @@
 **lundeen-bryan/lundeen-bryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+---
+
 Here is a little bit about me:
 
 - 🔭 I’m currently working on ["Modern HTML & CSS From The Beginning (Including Sass)"](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by Brad Traversy on Udemy.
@@ -15,6 +17,8 @@ Here is a little bit about me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I designed a program for our hospital that helps save a lot of time processing doctors reports.
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -22,6 +26,8 @@ Here is a little bit about me:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
+ ---
 
 <details>
   <summary>:zap: Github Stats</summary>
