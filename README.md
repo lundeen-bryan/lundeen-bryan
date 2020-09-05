@@ -6,7 +6,7 @@
 
 Here is a little bit about me:
 
-- 🔭 I’m currently working on ["Modern HTML & CSS From The Beginning (Including Sass) by Brad Traversy"](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmüller on Udemy.
+- 🔭 I’m currently working on ["Modern HTML & CSS From The Beginning (Including Sass)"](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by Brad Traversy on Udemy.
 - 🌱 I’m currently learning CSS in more depth.
 - 👯 I’m looking to collaborate on any learning project, I'm interested in front end web dev but also have C# and VBA skills.
 - 🤔 I’m looking for help with finding an entry level job in web dev.
