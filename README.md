@@ -12,9 +12,9 @@ Here is a little bit about me:
 - 🌱 I’m currently learning CSS in more depth.
 - 👯 I’m looking to collaborate on any learning project, I'm interested in front end web dev but also have C# and VBA skills.
 - 🤔 I’m looking for help with finding an entry level job in web dev.
-- 💬 Ask me about what projects I've worked on that are NOT in GitHub.
-- 📫 How to reach me: GitHub for now. 
-- 😄 Pronouns: he/him
+- 💬 Ask me about what projects I've worked on that are NOT in GitHub in [issues](https://github.com/lundeen-bryan/lundeen-bryan/issues).
+- 📫 How to reach me: [See Connect with me below](#connect-with-me). 
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I designed a program for our hospital that helps save a lot of time processing doctors reports.
 
 ---
