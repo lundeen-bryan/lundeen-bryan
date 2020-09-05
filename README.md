@@ -15,3 +15,14 @@ Here is a little bit about me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I designed a program for our hospital that helps save a lot of time processing doctors reports.
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<br />
+
+[twitter]: https://twitter.com/LundeenBryan
+[facebook]: https://www.facebook.com/realbryanlundeen
+[linkedin]: https://www.linkedin.com/in/bryanlundeen/
