@@ -23,6 +23,13 @@ Here is a little bit about me:
 
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Bryan Lundeen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lundeen-bryan&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/LundeenBryan
 [facebook]: https://www.facebook.com/realbryanlundeen
 [linkedin]: https://www.linkedin.com/in/bryanlundeen/
