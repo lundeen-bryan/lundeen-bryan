@@ -8,7 +8,7 @@
 
 Here is a little bit about me:
 
-- 🔭 I’m currently working on ["Modern HTML & CSS From The Beginning (Including Sass)"](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by Brad Traversy on Udemy.
+- 🔭 I’m currently working on ["HTML, CSS, JavaScript - Build 6 Creative Projects"](https://www.udemy.com/course/html-css-javascript-course-build-6-creative-projects/) by Code & Create on Udemy.
 - 🌱 I’m currently learning CSS in more depth.
 - 👯 I’m looking to collaborate on any learning project, I'm interested in front end web dev but also have C# and VBA skills.
 - 🤔 I’m looking for help with finding an entry level job in web dev.
