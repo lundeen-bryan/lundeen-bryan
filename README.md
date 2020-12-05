@@ -8,8 +8,8 @@
 
 Here is a little bit about me:
 
-- 🔭 I’m currently working on ["Modern HTML & CSS From The Beginning (Including Sass)"](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by Brad Traversy on Udemy.
-- 🌱 I’m currently learning CSS in more depth.
+- 🔭 I’m currently working on ["Build Responsive Real World Websites with HTML5 and CSS3"](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann on Udemy.
+- 🌱 I’m currently learning HTML/CSS in more depth.
 - 👯 I’m looking to collaborate on any learning project, I'm interested in front end web dev but also have C# and VBA skills.
 - 🤔 I’m looking for help with finding an entry level job in web dev.
 - 💬 Ask me about what projects I've worked on that are NOT in GitHub in [issues](https://github.com/lundeen-bryan/lundeen-bryan/issues).
