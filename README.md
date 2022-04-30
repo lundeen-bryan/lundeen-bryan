@@ -8,12 +8,12 @@
 
 Here is a little bit about me:
 
-- 🔭 I’m currently working on ["Build Responsive Real World Websites with HTML5 and CSS3"](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann on Udemy.
-- 🌱 I’m currently learning HTML/CSS in more depth.
-- 👯 I’m looking to collaborate on any learning project, I'm interested in front end web dev but also have C# and VBA skills.
-- 🤔 I’m looking for help with finding an entry level job in web dev.
+- 🔭 I’m currently working on ["SQL for Data Analysis - with SQL Server"](https://www.udemy.com/course/sql-basics-crash-course-with-sql-server/) by Travis Cuzick on Udemy.
+- 🌱 I’m currently practicing SQL and looking for a data analysis job.
+- 👯 I’m looking to collaborate on any learning project, I'm interested in data analysis and BI, but also have SharePoint and VBA skills.
+- 🤔 I’m looking for help with finding an entry level job in data analysis.
 - 💬 Ask me about what projects I've worked on that are NOT in GitHub in [issues](https://github.com/lundeen-bryan/lundeen-bryan/issues).
-- 📫 How to reach me: [See Connect with me below](#connect-with-me). 
+- 📫 How to reach me: [See Connect with me below](#connect-with-me).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I designed a program for our hospital that helps save a lot of time processing doctors reports.
 
@@ -21,10 +21,10 @@ Here is a little bit about me:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin] 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin] 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin] 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin] 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
