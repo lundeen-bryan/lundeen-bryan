@@ -14,7 +14,7 @@ Here is a little bit about me:
 - 🤔 I’m looking for help with finding an entry level job in data analysis.
 - 💬 Ask me about what projects I've worked on that are NOT in GitHub in [issues](https://github.com/lundeen-bryan/lundeen-bryan/issues).
 - 📫 How to reach me: [See Connect with me below](#connect-with-me).
-- 😄 Pronouns: he/him.
+- 😄 Pronouns: [<img align="left" alt="pronoun" width="26px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg" />][linkedin]
 - ⚡ Fun fact: I designed a program for our hospital that helps save a lot of time processing doctors reports.
 
 ---
@@ -28,7 +28,9 @@ Here is a little bit about me:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
-[<img align="left" alt="PowerBI" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerApps-Colored.png" />][linkedin]
+[<img align="left" alt="PowerApps" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerApps-Colored.png" />][linkedin]
+[<img align="left" alt="PowerBI" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg" />][linkedin]
+[<img align="left" alt="PowerAutomate" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerAutomate-Colored.png" />][linkedin]
 
 <br />
 
@@ -64,3 +66,5 @@ Here is a little bit about me:
 <!-- [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />] -->
 <!-- [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />] -->
 <!-- [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]  -->
+<!-- PowerPlatform icons from https://github.com/microsoft/PowerBI-Icons -->
+<!-- Markdown badges from here: https://github.com/Ileriayo/markdown-badges -->
