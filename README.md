@@ -14,7 +14,7 @@ Here is a little bit about me:
 - 🤔 I’m looking for help with finding an entry level job in data analysis.
 - 💬 Ask me about what projects I've worked on that are NOT in GitHub in [issues](https://github.com/lundeen-bryan/lundeen-bryan/issues).
 - 📫 How to reach me: [See Connect with me below](#connect-with-me).
-- 😄 Pronouns: [<img align="left" alt="pronoun" width="26px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg" />][linkedin]
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I designed a program for our hospital that helps save a lot of time processing doctors reports.
 
 ---
