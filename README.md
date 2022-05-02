@@ -8,7 +8,7 @@
 
 Here is a little bit about me:
 
-- 🔭 I’m currently working on ["SQL for Data Analysis - with SQL Server"](https://www.udemy.com/course/sql-basics-crash-course-with-sql-server/) by Travis Cuzick on Udemy.
+- 🔭 I’m currently working on ["The Advanced SQL Server Masterclass For Data Analysis"](https://www.udemy.com/course/advanced-sql-server-masterclass-for-data-analysis/) by Travis Cuzick on Udemy.
 - 🌱 I’m currently practicing SQL and looking for a data analysis job.
 - 👯 I’m looking to collaborate on any learning project, I'm interested in data analysis and BI, but also have SharePoint and VBA skills.
 - 🤔 I’m looking for help with finding an entry level job in data analysis.
