@@ -8,7 +8,7 @@
 
 Here is a little bit about me:
 
-- 🔭 I’m currently working on ["SQL Challenges: Learn SQL by solving challenging problems"](https://www.udemy.com/course/sql-challenges-learn-sql-by-solving-challenging-problems/) by Travis Cuzick on Udemy.
+- 🔭 I’m currently working on ["SQL Challenges: Learn SQL by solving challenging problems"](https://www.udemy.com/course/sql-challenges-learn-sql-by-solving-challenging-problems/) by Kaustubh Sathe on Udemy.
 - 🌱 I’m currently practicing SQL and looking for a data analysis job.
 - 👯 I’m looking to collaborate on any learning project, I'm interested in data analysis and BI, but also have SharePoint and VBA skills.
 - 🤔 I’m looking for help with finding an entry level job in data analysis.
