@@ -8,8 +8,8 @@
 
 Here is a little bit about me:
 
-- 🔭 I’m currently working on ["SQL Challenges: Learn SQL by solving challenging problems"](https://www.udemy.com/course/sql-challenges-learn-sql-by-solving-challenging-problems/) by Kaustubh Sathe on Udemy.
-- 🌱 I’m currently practicing SQL and looking for a data analysis job.
+- 🔭 I’m currently working on ["Statistics for Data Science and Business Analysis"](https://github.com/lundeen-bryan/1298780) by Iliya Valchanov from 365 Careers on Udemy.
+- 🌱 I’m currently practicing SQL, statistics and looking for a data analysis job.
 - 👯 I’m looking to collaborate on any learning project, I'm interested in data analysis and BI, but also have SharePoint and VBA skills.
 - 🤔 I’m looking for help with finding an entry level job in data analysis.
 - 💬 Ask me about what projects I've worked on that are NOT in GitHub in [issues](https://github.com/lundeen-bryan/lundeen-bryan/issues).
