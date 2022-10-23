@@ -8,7 +8,7 @@
 
 Here is a little bit about me:
 
-- 🔭 I’m currently working on ["Statistics for Data Science and Business Analysis"](https://github.com/lundeen-bryan/1298780) by Iliya Valchanov from 365 Careers on Udemy.
+- 🔭 I’m currently working on [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/2776760/) by Angela Yu on Udemy.
 - 🌱 I’m currently practicing SQL, statistics and looking for a data analysis job.
 - 👯 I’m looking to collaborate on any learning project, I'm interested in data analysis and BI, but also have SharePoint and VBA skills.
 - 🤔 I’m looking for help with finding an entry level job in data analysis.
