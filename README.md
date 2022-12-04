@@ -30,7 +30,7 @@ Here is a little bit about me:
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 [<img align="left" alt="PowerApps" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerApps-Colored.png" />][linkedin]
 [<img align="left" alt="PowerBI" width="20px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png" />][linkedin]
-[<img align="left" alt="PowerAutomate" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerAutomate-Colored.png" />][linkedin]
+[<img align="left" alt="PowerAutomate" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />][linkedin]
 [<img align="left" alt="Excel" width="26px" src="https://github.com/lundeen-bryan/ProfileIcons/blob/master/excel.png" />][linkedin]
 
 <br />
