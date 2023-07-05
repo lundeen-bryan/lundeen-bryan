@@ -21,7 +21,8 @@ Here is a little bit about me:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://github.com/hussainweb/hussainweb/blob/73f2376ce64259a6b60eb044a919a76a73fcd3b0/icons/python.png" />][linkedin]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />][linkedin]
+[<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />][linkedin]
 [<img align="left" alt="Excel" width="26px" src="https://github.com/lundeen-bryan/ProfileIcons/blob/master/excel.png" />][linkedin]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
