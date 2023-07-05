@@ -8,11 +8,11 @@
 
 Here is a little bit about me:
 
-- 🔭 I’m currently working on [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/2776760/) by Angela Yu on Udemy.
-- 🌱 I’m currently practicing SQL, statistics and looking for a data analysis job.
-- 👯 I’m looking to collaborate on any learning project, I'm interested in data analysis and BI, but also have SharePoint and VBA skills.
-- 🤔 I’m looking for help with finding an entry level job in data analysis.
-- 💬 Ask me about what projects I've worked on that are NOT in GitHub in [issues](https://github.com/lundeen-bryan/lundeen-bryan/issues).
+- 👨‍💻 I’m currently working on ["Power Query and M Language the easy way"](https://www.udemy.com/course-dashboard-redirect/?course_id=4985738) by BizticsCom King (Bill Singh) on Udemy.
+- 🏋 I’m currently practicing Power Platform, specifically 🇲 code and Power BI.
+- 👯 I’m looking to collaborate on any project, I'm interested in data analysis and BI, but anything involving data.
+- ⏰ I've been working in data analysis for 10 years.
+- ❓ Ask me about what projects I've worked on that are NOT in GitHub in [issues](https://github.com/lundeen-bryan/lundeen-bryan/issues).
 - 📫 How to reach me: [See Connect with me below](#connect-with-me).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I designed a program for our hospital that helps save a lot of time processing doctors reports.
@@ -28,13 +28,14 @@ Here is a little bit about me:
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
-[<img align="left" alt="PowerApps" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerApps-Colored.png" />][linkedin]
+[<img align="left" alt="PowerApps" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Power-Apps-Colored.png" />][linkedin]
 [<img align="left" alt="PowerBI" width="20px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png" />][linkedin]
 [<img align="left" alt="PowerAutomate" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />][linkedin]
 [<img align="left" alt="Excel" width="26px" src="https://github.com/lundeen-bryan/ProfileIcons/blob/master/excel.png" />][linkedin]
 
 <br />
-
+https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Power-Apps-Colored.png
+https://raw.githubusercontent.com/github/explore/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Power-Apps-Colored.png
 ---
 
 ### Connect with me:
