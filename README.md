@@ -32,7 +32,7 @@ Here is a little bit about me:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
 [<img align="left" alt="PowerApps" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Power-Apps-Colored.png" />][linkedin]
 [<img align="left" alt="PowerAutomate" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Power-Automate-Colored.png" />][linkedin]
-[<img align="left" alt="PowerBI" width="20px" src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Desktop.png" />][linkedin]
+[<img align="left" alt="PowerBI" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Desktop.png" />][linkedin]
 
 <br />
 
