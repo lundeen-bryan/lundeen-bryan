@@ -9,7 +9,7 @@
 Here is a little bit about me:
 
 - 👨‍💻 I’m currently working on [Practical SQL With Python In 3 Days Beginner to Pro  Udemy](https://www.udemy.com/course/practical-sql-with-python-in-3-days/) by [Andy Bek](https://www.udemy.com/user/andy-bek-3/) on Udemy.
-- 🏋 I’m currently practicing Power Platform, specifically 🇲 code and Power BI.
+- 🏋 I’m currently practicing SQL in Python Jupyter Notebooks.
 - 👯 I’m looking to collaborate on any project, I'm interested in data analysis and BI, but anything involving data.
 - ⏰ I've been working in data analysis for 10 years.
 - ❓ Ask me about what projects I've worked on that are NOT in GitHub in [issues](https://github.com/lundeen-bryan/lundeen-bryan/issues).
